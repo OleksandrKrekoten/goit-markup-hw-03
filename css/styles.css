@@ -23,7 +23,6 @@ h1,h2,h3,p{
 .link {
   outline: none;
   text-decoration: none;
-
 }
 .page-header {
   border-bottom: 1px solid #ECECEC;;
@@ -282,6 +281,7 @@ text-align: center;
 .button-list {
   display: flex;
   justify-content:center;
+padding-bottom: 50px;
   
   
   
@@ -293,6 +293,7 @@ text-align: center;
   margin-right: 0;
 }
 .projects-button {
+  margin-bottom: 5px;
   padding: 6px 22px;
   background-color: #f5f4fa;
   font-weight: 500;
@@ -309,7 +310,7 @@ text-align: center;
 .projects-list {
   display: flex;
   flex-wrap: wrap;
-  padding-top: 34px;
+  
   
 }
 .projects-items {
